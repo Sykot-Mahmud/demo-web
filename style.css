@@ -1,0 +1,65 @@
+.section1{
+    background-color: peru;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.header{
+    background-color:lightpink;
+    border-radius: 35px;
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+}
+
+.span1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: lightslategray;
+}
+.span2{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: rgba(14, 41, 196, 0.644);
+}
+
+.aside-1{
+    float:right;
+    margin-left: 10px;
+    text-align: center;
+    background-color: mediumorchid;
+    padding:15px;
+    border: 10px dashed lightskyblue;
+    border-radius: 10px;
+}
+
+.section-s{
+    display: flex;
+}
+
+.div-1{
+ 
+        background-color:lightpink;
+        border-radius: 35px;
+        padding: 5px;
+        width: 50%;
+        text-align: center;
+        float: right;
+        margin-left: 10px;
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 700;
+        color: lightslategray;
+    
+}
+
+.section-ll{
+    border: 5px dashed lightsalmon;
+    margin: 5px;
+}
+
+.section-l{
+    text-align: justify;
+}
